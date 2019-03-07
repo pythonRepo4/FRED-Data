@@ -1,0 +1,127 @@
+
+Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan (TERMCBAUTO48NS)
+Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan (RIFLPBCIANM60NM)
+
+10-Year Treasury Inflation-Indexed Security, Constant Maturity (DFII10)
+5-Year Treasury Inflation-Indexed Security, Constant Maturity (DFII5)
+30-Year Treasury Inflation-Indexed Security, Constant Maturity (DFII30)	
+7-Year Treasury Inflation-Indexed Security, Constant Maturity (DFII7)
+20-Year Treasury Inflation-Indexed Security, Constant Maturity (DFII20)
+Treasury Inflation-Indexed Long-Term Average Yield (DLTIIT)
+
+10-Year Treasury Constant Maturity Rate (DGS10)
+1-Year Treasury Constant Maturity Rate (DGS1)
+2-Year Treasury Constant Maturity Rate (DGS2)
+5-Year Treasury Constant Maturity Rate (DGS5)
+10-Year Treasury Inflation-Indexed Security, Constant Maturity (DFII10)
+30-Year Treasury Constant Maturity Rate (DGS30)
+
+30-Year Fixed Rate Mortgage Average in the United States (MORTGAGE30US)
+15-Year Fixed Rate Mortgage Average in the United States (MORTGAGE15US)
+
+ICE BofAML US High Yield Master II Option-Adjusted Spread (BAMLH0A0HYM2)
+Moody's Seasoned Aaa Corporate Bond Yield (AAA)
+Moody's Seasoned Baa Corporate Bond Yield (BAA)
+ICE BofAML US Corporate BBB Effective Yield (BAMLC0A4CBBBEY)
+ICE BofAML US High Yield BB Effective Yield (BAMLH0A1HYBBEY)
+ICE BofAML US Corporate AAA Effective Yield (BAMLC0A1CAAAEY)
+ICE BofAML US High Yield B Effective Yield (BAMLH0A2HYBEY)
+ICE BofAML US Corporate AA Effective Yield (BAMLC0A2CAAEY)
+ICE BofAML US Corporate A Effective Yield (BAMLC0A3CAEY)
+
+St. Louis Adjusted Monetary Base (BASE)
+St. Louis Adjusted Monetary Base (BASENS)
+Monetary Base; Total (BOGMBASEW)
+Monetary Base; Currency in Circulation (MBCURRCIRW)
+Real St. Louis Adjusted Monetary Base (AMBSLREAL)
+Excess Reserves of Depository Institutions (EXCSRESNW)
+Reserve Balances with Federal Reserve Banks (WRESBAL)
+St. Louis Adjusted Reserves (ADJRES)
+St. Louis Adjusted Reserves (ADJRESN)
+Total Reserve Balances Maintained with Federal Reserve Banks (RESBALNSW)
+Required Reserves of Depository Institutions (REQRESNS)
+U.S. Mint Held Gold Deep Storage: Fort Knox, KY (FKKYGTA)
+
+M1 Money Stock (M1)
+M1 Money Stock (WM1NS)
+Currency Component of M1 (CURRENCY)
+Currency Component of M1 (WCURRNS)
+M1 Money Multiplier (MULT)
+Value of Currency in Circulation: Total (CURRVALALL)
+
+M2 Money Stock (M2)
+M2 Money Stock (WM2NS)
+Total Savings Deposits at all Depository Institutions (SAVINGS)
+Retail Money Funds (WRMFSL)
+Retail Money Funds (WRMFNS)
+Savings Deposits - Total (SAVINGSL)
+Real M2 Money Stock (M2REAL)
+Monetary Services Index: M2 (preferred) (MSIM2)
+
+Velocity of M2 Money Stock (M2V)
+Velocity of M1 Money Stock (M1V)
+Velocity of MZM Money Stock (MZMV)
+
+Total Borrowings of Depository Institutions from the Federal Reserve (TOTBORR)
+All Federal Reserve Banks: Total Assets (WALCL)
+Currency in Circulation (WCURCIR)
+Reserve Balances with Federal Reserve Banks (WRESBAL)
+Assets: Securities Held Outright: Mortgage-Backed Securities (WSHOMCB)
+Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations (RRPONTSYD)
+U.S. Treasury securities held by the Federal Reserve: All Maturities (TREAST)
+CBOE Volatility Index: VIX (VIXCLS)
+
+S&P/Case-Shiller U.S. National Home Price Index (CSUSHPINSA)
+S&P/Case-Shiller 20-City Composite Home Price Index (SPCS20RSA)
+All-Transactions House Price Index for the United States (USSTHPI)
+
+Global price of Copper (PCOPPUSDM)
+Global Price Index of All Commodities (PALLFNFINDEXQ)
+Global price of Brent Crude (POILBREUSDM)
+
+Gross Domestic Product (GDP)
+Real gross domestic product per capita (A939RX0Q048SBEA)
+Gross National Product (GNP)
+Gross National Product (GNPA)
+Gross domestic product per capita (A939RC0Q052SBEA)
+Real Gross Domestic Product (GDPC1)
+Real Gross Domestic Product (A191RL1Q225SBEA)
+Real Gross Domestic Product (GDPCA)
+Real Gross Domestic Product % Change Seasonally Adjusted (A191RO1Q156NBEA)
+Real Gross Domestic Product % Change Not Seasonally Adjusted (A191RL1A225NBEA)
+Real Gross Domestic Product (ND000334Q)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
